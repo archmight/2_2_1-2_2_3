@@ -4,29 +4,29 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 1181px;
+  min-height: 1020px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1186px;
+    min-height: 841px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1185px;
+    min-height: 644px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1177px;
+    min-height: 483px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1569px;
+    min-height: 304px;
   }
 }
